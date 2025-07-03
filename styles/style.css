@@ -1,0 +1,18 @@
+.main{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border: 10px solid lightseagreen;
+    border-radius: 4px;
+}
+
+
+#para{
+    color:darkslategray;
+    font-weight: bolder;
+    background-color: lightblue;
+    font-weight: 800;
+    border: 2px dashed blueviolet;
+    margin: 20px 75px;
+    box-shadow: 5px 8px 5px lightskyblue;
+
+}
